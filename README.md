@@ -1,1 +1,1 @@
-# discord-oauth2-guild-joiner
+# discord oauth2 guild joiner
